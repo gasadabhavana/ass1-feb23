@@ -1,0 +1,11 @@
+n=int(input('enter n'))
+l=[]
+for i in range(n):
+    x=input(input()) 
+min=l[0]  
+max=l[0]
+    l.append(x)
+    if l[i]<min:
+print(min(l)) 
+     if l[i]>max
+print(max(l))
